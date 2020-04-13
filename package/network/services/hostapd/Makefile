@@ -6,7 +6,7 @@
 
 include $(TOPDIR)/rules.mk
 
-PKG_NAME:=hostapd
+PKG_NAME:=hostapd-scifi
 PKG_RELEASE:=8
 
 PKG_SOURCE_URL:=http://w1.fi/hostap.git
